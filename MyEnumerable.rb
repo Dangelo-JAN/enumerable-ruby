@@ -1,13 +1,14 @@
-# module my_enumerable
-def _all
+module MyEnumerable
+  def _all
 
+  end
+
+  def _any
+    self.each { |x| return true if yield(x) }
+    false
+  end
+
+  def _filter
+
+  end
 end
-
-def _any(arr)
-  arr
-end
-
-def _filter
-
-end
-# end
