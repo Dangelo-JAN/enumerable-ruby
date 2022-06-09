@@ -42,6 +42,11 @@ Use the following steps to run this Project locally:
 - Twitter: [@ReveloJ](https://twitter.com/ReveloJ)
 - LinkedIn: [Jorge Ríos](https://www.linkedin.com/in/jorgeriosr/)
 
+👤 **Dangelo Arrivillaga**
+
+- GitHub: [@Dangelo-JAN](https://github.com/Dangelo-JAN)
+- LinkedIn: [Soluciones Empresriales Dangelo Arrivillaga](https://www.linkedin.com/in/soluciones-empresariales-dangelo-arrivillaga-2a144718a/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
