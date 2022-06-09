@@ -36,6 +36,12 @@ Use the following steps to run this Project locally:
 - Twitter: [@Juanse77930](https://twitter.com/Juanse77930)
 - LinkedIn: [Juan Sebastian Sotomayor](https://linkedin.com/in/juansebastiansotomayor)
 
+👤 **George**
+
+- GitHub: [@Alexr16](https://github.com/Alexr16)
+- Twitter: [@ReveloJ](https://twitter.com/ReveloJ)
+- LinkedIn: [Jorge Ríos](https://www.linkedin.com/in/jorgeriosr/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
