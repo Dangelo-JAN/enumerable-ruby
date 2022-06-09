@@ -21,3 +21,6 @@ p my_list._any { |e| e == 5 }
 # Test _all method
 p my_list._all { |e| e < 5 }
 p my_list._all { |e| e > 5 }
+
+# Test _filter method
+p my_list._filter { |e| e.even? }

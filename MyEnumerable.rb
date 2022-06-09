@@ -10,6 +10,8 @@ module MyEnumerable
   end
 
   def _filter
-
+    result = []
+    self.each { |x| result << x if yield(x) }
+    result
   end
 end
